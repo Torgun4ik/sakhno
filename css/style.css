@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(#9A5044, #E8D9A9) fixed;
+    color:#4344F5 ;
+}
+IMG{
+    width: 150px;
+    height: 150px;
+}
+table{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    margin: auto;
+    height: 850px  ;
+  width: 1850px;
+
+}
+tr, td {
+    border: 2px solid blue;
+    text-align: center;
+    height: 80px;
+    width: 200px ;
+    font-size: 30px;
+}
+ 
+.zagolovok {
+    height: 150px;
+    width: 200px ;
+
+}
